@@ -1,0 +1,16 @@
+sceneSetups:
+- path: Assets/Application/Scenes/Scn_TopMenu.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Application/Scenes/Scn_Persistent.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Application/Scenes/Scn_Entry.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Application/Scenes/Scn_PhotoGraph.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Application/Scenes/Scn_History.unity
+  isLoaded: 0
+  isActive: 0
